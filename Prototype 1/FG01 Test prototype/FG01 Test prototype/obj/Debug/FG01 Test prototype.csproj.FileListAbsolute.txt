@@ -18,3 +18,13 @@ C:\Users\nikminer.sys\Desktop\FG01 Test prototype\FG01 Test prototype\obj\Debug\
 C:\Users\nikminer.sys\Desktop\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.csproj.CopyComplete
 C:\Users\nikminer.sys\Desktop\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.exe
 C:\Users\nikminer.sys\Desktop\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.pdb
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\bin\Debug\FG01 Test prototype.exe.config
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\bin\Debug\FG01 Test prototype.exe
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\bin\Debug\FG01 Test prototype.pdb
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.csprojAssemblyReference.cache
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.csproj.CoreCompileInputs.cache
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.csproj.CopyComplete
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.exe
+C:\Users\nikminer.sys\Documents\GitHub\FG01\Prototype 1\FG01 Test prototype\FG01 Test prototype\obj\Debug\FG01 Test prototype.pdb
